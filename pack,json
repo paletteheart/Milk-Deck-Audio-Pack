@@ -1,0 +1,10 @@
+{
+  "name": "I'll be here for a while",
+  "description": "This is the song 'I'll be here for a while' from the game Milk Outside a Bag of Milk.",
+  "author": "paletteheart",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
